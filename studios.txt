@@ -1,0 +1,7 @@
+S1 | Studio 1 |  5 | 10 | A
+S2 | Studio 2 |  5 |  5	| A
+S3 | Studio 3 |  7 |  7 | A
+S4 | Studio 4 | 10 | 10 | A
+S5 | Studio 5 | 15 | 10 | A
+MX | IMAX     | 15 | 20 | A
+S6 | Studio 6 | 20 | 25 | A
